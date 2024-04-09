@@ -1,0 +1,264 @@
+﻿<root>
+	<Location>MHCMedicalProducts</Location>
+	<Origin>
+		<LocationType>Facility</LocationType>
+		<LocationSite>MAIN</LocationSite>
+		<LocationCode>25</LocationCode>
+		<EmailNotificationFlags>0</EmailNotificationFlags>
+	</Origin>
+	<Destination>
+		<LocationType>Customer</LocationType>
+		<LocationSite>MAIN</LocationSite>
+		<LocationCode>5249845</LocationCode>
+		<CompanyName>TYSON BIORESEARCH INC.</CompanyName>
+		<ContactName></ContactName>
+		<Phone></Phone>
+		<Email></Email>
+		<Address1>5F #22 KE E. ROAD 111</Address1>
+		<Address2>SCIENCE BASED INDUSTRIAL PARK</Address2>
+		<Address3></Address3>
+		<City>CHU-NAN</City>
+		<StateOrProvinceCode></StateOrProvinceCode>
+		<PostalCode></PostalCode>
+		<CountryCode>TW</CountryCode>
+		<Residential>false</Residential>
+		<EmailNotificationFlags>0</EmailNotificationFlags>
+	</Destination>
+	<CarrierDetails>
+		<ShipXRef>2895</ShipXRef>
+	</CarrierDetails>
+	<ShipmentDetail>
+		<ShipmentOptions></ShipmentOptions>
+		<UserField1>Return Testing Shipment - Tyson</UserField1>
+		<UserField2>SO71210</UserField2>
+		<UserField3> QA/RA 7.8.2022 - Tyson </UserField3>
+		<UserField13>0.00</UserField13>
+		<UserField14>2895</UserField14>
+		<UserField15>5249420</UserField15>
+		<WeightUOM>LB</WeightUOM>
+	</ShipmentDetail>
+	<MessageList>
+		<Message>
+			<Name> FedEx_Reference_CUSTOMER_REFERENCE </Name>
+			<Value> Return Testing Shipment - Tyson </Value>
+		</Message>
+		<Message>
+			<Name> FedEx_Reference_P_O_NUMBER </Name>
+			<Value> QA/RA 7.8.2022 - Tyson </Value>
+		</Message>
+		<Message>
+			<Name> FedEx_Reference_INVOICE_NUMBER </Name>
+			<Value> SO71210 </Value>
+		</Message>
+		<Message>
+			<Name> UPS_Reference_1 </Name>
+			<Value> QA/RA 7.8.2022 - Tyson </Value>
+		</Message>
+		<Message>
+			<Name> UPS_Reference_2 </Name>
+			<Value>SO71210</Value>
+		</Message>
+		<Message>
+			<Name> NetSuite_Location </Name>
+			<Value>25</Value>
+		</Message>
+	</MessageList>
+	<PackageDetailsList>
+		<PackageDetails>
+			<IsDefault>true</IsDefault>
+			<ItemQuantity>26</ItemQuantity>
+			<PackageOptions>
+				<DeclaredValue>
+					<Amount>0</Amount>
+					<Currency> USD </Currency>
+				</DeclaredValue>
+			</PackageOptions>
+			<Dimensions></Dimensions>
+			<Weight></Weight>
+			<ProductDetailsList>
+				<ProductDetails>
+					<Quantity>
+						<Units> EA </Units>
+						<Value>8</Value>
+					</Quantity>
+					<Price>
+						<Amount>0.00</Amount>
+						<Currency> USD </Currency>
+					</Price>
+					<Dimensions>
+						<Units> IN </Units>
+						<Height>7.1</Height>
+						<Width>2.2</Width>
+						<Length>5</Length>
+					</Dimensions>
+					<Cost>
+						<Value>8.00</Value>
+						<Units> EA </Units>
+						<Amount>8.00</Amount>
+						<Currency> USD </Currency>
+					</Cost>
+					<ExternalID>2095</ExternalID>
+					<NetsuiteItemInternalId>2095</NetsuiteItemInternalId>
+					<Number>707001</Number>
+					<Description> Members Mark Glucose Meter Kit </Description>
+					<Weight>.6</Weight>
+					<PackUIRmngItem> N </PackUIRmngItem>
+					<UserField3>8</UserField3>
+					<CommodityName> Glucose Monitors or Meters (Taiwan) - QA </CommodityName>
+					<UPCCode>78742234601</UPCCode>
+					<ProducerNumber></ProducerNumber>
+					<AutoPack>false</AutoPack>
+					<UserField1>0</UserField1>
+				</ProductDetails>
+				<ProductDetails>
+					<Quantity>
+						<Units> EA </Units>
+						<Value>12</Value>
+					</Quantity>
+					<Price>
+						<Amount>0.00</Amount>
+						<Currency> USD </Currency>
+					</Price>
+					<Dimensions>
+						<Units> IN </Units>
+						<Height>2.8</Height>
+						<Width>1.7</Width>
+						<Length>1.9</Length>
+					</Dimensions>
+					<Cost>
+						<Value>2.00</Value>
+						<Units> EA </Units>
+						<Amount>2.00</Amount>
+						<Currency> USD </Currency>
+					</Cost>
+					<ExternalID>2096</ExternalID>
+					<NetsuiteItemInternalId>2096</NetsuiteItemInternalId>
+					<Number>707050</Number>
+					<Description> Members Mark Glucose Test Strips </Description>
+					<Weight>.2</Weight>
+					<PackUIRmngItem> N </PackUIRmngItem>
+					<UserField3>12</UserField3>
+					<CommodityName> Test Strips (Taiwan) - QA </CommodityName>
+					<UPCCode>078742234618</UPCCode>
+					<ProducerNumber></ProducerNumber>
+					<AutoPack>false</AutoPack>
+					<UserField1>3</UserField1>
+				</ProductDetails>
+				<ProductDetails>
+					<Quantity>
+						<Units> EA </Units>
+						<Value>3</Value>
+					</Quantity>
+					<Price>
+						<Amount>0.00</Amount>
+						<Currency> USD </Currency>
+					</Price>
+					<Dimensions>
+						<Units> IN </Units>
+						<Height>7.2</Height>
+						<Width>2.2</Width>
+						<Length>4.9</Length>
+					</Dimensions>
+					<Cost>
+						<Value>8.00</Value>
+						<Units> EA </Units>
+						<Amount>8.00</Amount>
+						<Currency> USD </Currency>
+					</Cost>
+					<ExternalID>2042</ExternalID>
+					<NetsuiteItemInternalId>2042</NetsuiteItemInternalId>
+					<Number>807001</Number>
+					<Description> EasyTouch Glucose Meter Kit </Description>
+					<Weight>.5</Weight>
+					<PackUIRmngItem> N </PackUIRmngItem>
+					<UserField3>3</UserField3>
+					<CommodityName> Glucose Monitors or Meters (Taiwan) - QA </CommodityName>
+					<UPCCode>84960807015</UPCCode>
+					<ProducerNumber></ProducerNumber>
+					<AutoPack>false</AutoPack>
+					<UserField1>6</UserField1>
+				</ProductDetails>
+				<ProductDetails>
+					<Quantity>
+						<Units> EA </Units>
+						<Value>3</Value>
+					</Quantity>
+					<Price>
+						<Amount>0.00</Amount>
+						<Currency> USD </Currency>
+					</Price>
+					<Dimensions>
+						<Units> IN </Units>
+						<Height>2.7</Height>
+						<Width>1.8</Width>
+						<Length>1.9</Length>
+					</Dimensions>
+					<Cost>
+						<Value>2.20</Value>
+						<Units> EA </Units>
+						<Amount>2.20</Amount>
+						<Currency> USD </Currency>
+					</Cost>
+					<ExternalID>1701</ExternalID>
+					<NetsuiteItemInternalId>1701</NetsuiteItemInternalId>
+					<Number>807050</Number>
+					<Description> EasyTouch Glucose Test Strips </Description>
+					<Weight>.2</Weight>
+					<PackUIRmngItem> N </PackUIRmngItem>
+					<UserField3>3</UserField3>
+					<CommodityName> Test Strips (Taiwan) - QA </CommodityName>
+					<UPCCode>084960807053</UPCCode>
+					<ProducerNumber></ProducerNumber>
+					<AutoPack>false</AutoPack>
+					<UserField1>9</UserField1>
+				</ProductDetails>
+			</ProductDetailsList>
+		</PackageDetails>
+	</PackageDetailsList>
+	<BillingDetails>
+		<Subsidiary>2</Subsidiary>
+		<AccountNumber>5249845</AccountNumber>
+		<Name> TYSON BIORESEARCH INC. </Name>
+		<FreightTermsCode> Prepaid </FreightTermsCode>
+		<ZipPostalCode></ZipPostalCode>
+		<CountryCode>TW</CountryCode>
+		<BillingAccountList></BillingAccountList>
+	</BillingDetails>
+	<CustomFields>
+		<CustomField>
+			<Name>DefaultDeclaredValue</Name>
+			<Value>CALCULATE</Value>
+		</CustomField>
+		<CustomField>
+			<Name>UseParentShipToIfAvailable</Name>
+			<Value>false</Value>
+		</CustomField>
+		<CustomField>
+			<Name>DefaultPackageNumber</Name>
+			<Value>null</Value>
+		</CustomField>
+		<CustomField>
+			<Name>TranId</Name>
+			<Value>IF46658</Value>
+		</CustomField>
+		<CustomField>
+			<Name>Containers</Name>
+			<Value>[]</Value>
+		</CustomField>
+		<CustomField>
+			<Name>custbody_mhc_govt_rates_fill</Name>
+			<Value> F </Value>
+		</CustomField>
+	</CustomFields>
+	<WorkstationID></WorkstationID>
+	<MachineName></MachineName>
+	<IsPulling>False</IsPulling>
+	<Location>MHCMedicalProducts</Location>
+	<PreProcessors>
+		<PreProcessor> \\amznfsxiyaouacf.pacejet.cc\share\SharedApp\WebServices\PacejetPreprocessWS\PluginLibraries\MHCMedicalProducts\00~CreateBillingAccountAddressRecords~{2-5-3-0}.dll </PreProcessor>
+		<PreProcessor> \\amznfsxiyaouacf.pacejet.cc\share\SharedApp\WebServices\PacejetPreprocessWS\PluginLibraries\MHCMedicalProducts\01~DeleteDO~{1-1-1-1}.dll </PreProcessor>
+		<PreProcessor> \\amznfsxiyaouacf.pacejet.cc\share\SharedApp\WebServices\PacejetPreprocessWS\PluginLibraries\MHCMedicalProducts\02~TransCopyNode~{1-1-6022-17944}.dll </PreProcessor>
+		<PreProcessor> \\amznfsxiyaouacf.pacejet.cc\share\SharedApp\WebServices\PacejetPreprocessWS\PluginLibraries\MHCMedicalProducts\03~TurnOffCarrierEmailNotifications~{1-1-0-0}.dll </PreProcessor>
+		<PreProcessor> \\amznfsxiyaouacf.pacejet.cc\share\SharedApp\WebServices\PacejetPreprocessWS\PluginLibraries\MHCMedicalProducts\04~UPSReference2RemoveSpecialCharacters~{1-3-0-0}.dll </PreProcessor>
+	</PreProcessors>
+</root>

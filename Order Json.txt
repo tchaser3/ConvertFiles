@@ -1,0 +1,275 @@
+{
+   "root": {
+      "Location": [
+         "MHCMedicalProducts",
+         "MHCMedicalProducts"
+      ],
+      "Origin": {
+         "LocationType": "Facility",
+         "LocationSite": "MAIN",
+         "LocationCode": "25",
+         "EmailNotificationFlags": "0"
+      },
+      "Destination": {
+         "LocationType": "Customer",
+         "LocationSite": "MAIN",
+         "LocationCode": "5249845",
+         "CompanyName": "TYSON BIORESEARCH INC.",
+         "ContactName": "",
+         "Phone": "",
+         "Email": "",
+         "Address1": "5F #22 KE E. ROAD 111",
+         "Address2": "SCIENCE BASED INDUSTRIAL PARK",
+         "Address3": "",
+         "City": "CHU-NAN",
+         "StateOrProvinceCode": "",
+         "PostalCode": "",
+         "CountryCode": "TW",
+         "Residential": "false",
+         "EmailNotificationFlags": "0"
+      },
+      "CarrierDetails": {
+         "ShipXRef": "2895"
+      },
+      "ShipmentDetail": {
+         "ShipmentOptions": "",
+         "UserField1": "Return Testing Shipment - Tyson",
+         "UserField2": "SO71210",
+         "UserField3": "QA/RA 7.8.2022 - Tyson",
+         "UserField13": "0.00",
+         "UserField14": "2895",
+         "UserField15": "5249420",
+         "WeightUOM": "LB"
+      },
+      "MessageList": {
+         "Message": [
+            {
+               "Name": "FedEx_Reference_CUSTOMER_REFERENCE",
+               "Value": "Return Testing Shipment - Tyson"
+            },
+            {
+               "Name": "FedEx_Reference_P_O_NUMBER",
+               "Value": "QA/RA 7.8.2022 - Tyson"
+            },
+            {
+               "Name": "FedEx_Reference_INVOICE_NUMBER",
+               "Value": "SO71210"
+            },
+            {
+               "Name": "UPS_Reference_1",
+               "Value": "QA/RA 7.8.2022 - Tyson"
+            },
+            {
+               "Name": "UPS_Reference_2",
+               "Value": "SO71210"
+            },
+            {
+               "Name": "NetSuite_Location",
+               "Value": "25"
+            }
+         ]
+      },
+      "PackageDetailsList": {
+         "PackageDetails": {
+            "IsDefault": "true",
+            "ItemQuantity": "26",
+            "PackageOptions": {
+               "DeclaredValue": {
+                  "Amount": "0",
+                  "Currency": "USD"
+               }
+            },
+            "Weight": "",
+            "ProductDetailsList": {
+               "ProductDetails": [
+                  {
+                     "Quantity": {
+                        "Units": "EA",
+                        "Value": "8"
+                     },
+                     "Price": {
+                        "Amount": "0.00",
+                        "Currency": "USD"
+                     },
+                     "Dimensions": {
+                        "Units": "IN",
+                        "Height": "7.1",
+                        "Width": "2.2",
+                        "Length": "5"
+                     },
+                     "Cost": {
+                        "Value": "8.00",
+                        "Units": "EA",
+                        "Amount": "8.00",
+                        "Currency": "USD"
+                     },
+                     "ExternalID": "2095",
+                     "NetsuiteItemInternalId": "2095",
+                     "Number": "707001",
+                     "Description": "Members Mark Glucose Meter Kit",
+                     "Weight": ".6",
+                     "PackUIRmngItem": "N",
+                     "UserField3": "8",
+                     "CommodityName": "Glucose Monitors or Meters (Taiwan) - QA",
+                     "UPCCode": "78742234601",
+                     "ProducerNumber": "",
+                     "AutoPack": "false",
+                     "UserField1": "0"
+                  },
+                  {
+                     "Quantity": {
+                        "Units": "EA",
+                        "Value": "12"
+                     },
+                     "Price": {
+                        "Amount": "0.00",
+                        "Currency": "USD"
+                     },
+                     "Dimensions": {
+                        "Units": "IN",
+                        "Height": "2.8",
+                        "Width": "1.7",
+                        "Length": "1.9"
+                     },
+                     "Cost": {
+                        "Value": "2.00",
+                        "Units": "EA",
+                        "Amount": "2.00",
+                        "Currency": "USD"
+                     },
+                     "ExternalID": "2096",
+                     "NetsuiteItemInternalId": "2096",
+                     "Number": "707050",
+                     "Description": "Members Mark Glucose Test Strips",
+                     "Weight": ".2",
+                     "PackUIRmngItem": "N",
+                     "UserField3": "12",
+                     "CommodityName": "Test Strips (Taiwan) - QA",
+                     "UPCCode": "078742234618",
+                     "ProducerNumber": "",
+                     "AutoPack": "false",
+                     "UserField1": "3"
+                  },
+                  {
+                     "Quantity": {
+                        "Units": "EA",
+                        "Value": "3"
+                     },
+                     "Price": {
+                        "Amount": "0.00",
+                        "Currency": "USD"
+                     },
+                     "Dimensions": {
+                        "Units": "IN",
+                        "Height": "7.2",
+                        "Width": "2.2",
+                        "Length": "4.9"
+                     },
+                     "Cost": {
+                        "Value": "8.00",
+                        "Units": "EA",
+                        "Amount": "8.00",
+                        "Currency": "USD"
+                     },
+                     "ExternalID": "2042",
+                     "NetsuiteItemInternalId": "2042",
+                     "Number": "807001",
+                     "Description": "EasyTouch Glucose Meter Kit",
+                     "Weight": ".5",
+                     "PackUIRmngItem": "N",
+                     "UserField3": "3",
+                     "CommodityName": "Glucose Monitors or Meters (Taiwan) - QA",
+                     "UPCCode": "84960807015",
+                     "ProducerNumber": "",
+                     "AutoPack": "false",
+                     "UserField1": "6"
+                  },
+                  {
+                     "Quantity": {
+                        "Units": "EA",
+                        "Value": "3"
+                     },
+                     "Price": {
+                        "Amount": "0.00",
+                        "Currency": "USD"
+                     },
+                     "Dimensions": {
+                        "Units": "IN",
+                        "Height": "2.7",
+                        "Width": "1.8",
+                        "Length": "1.9"
+                     },
+                     "Cost": {
+                        "Value": "2.20",
+                        "Units": "EA",
+                        "Amount": "2.20",
+                        "Currency": "USD"
+                     },
+                     "ExternalID": "1701",
+                     "NetsuiteItemInternalId": "1701",
+                     "Number": "807050",
+                     "Description": "EasyTouch Glucose Test Strips",
+                     "Weight": ".2",
+                     "PackUIRmngItem": "N",
+                     "UserField3": "3",
+                     "CommodityName": "Test Strips (Taiwan) - QA",
+                     "UPCCode": "084960807053",
+                     "ProducerNumber": "",
+                     "AutoPack": "false",
+                     "UserField1": "9"
+                  }
+               ]
+            }
+         }
+      },
+      "BillingDetails": {
+         "Subsidiary": "2",
+         "AccountNumber": "5249845",
+         "Name": "TYSON BIORESEARCH INC.",
+         "FreightTermsCode": "Prepaid",
+         "ZipPostalCode": "",
+         "CountryCode": "TW",
+         "BillingAccountList": ""
+      },
+      "CustomFields": {
+         "CustomField": [
+            {
+               "Name": "DefaultDeclaredValue",
+               "Value": "CALCULATE"
+            },
+            {
+               "Name": "UseParentShipToIfAvailable",
+               "Value": "false"
+            },
+            {
+               "Name": "DefaultPackageNumber",
+               "Value": "null"
+            },
+            {
+               "Name": "TranId",
+               "Value": "IF46658"
+            },
+            {
+               "Name": "Containers",
+               "Value": "[]"
+            },
+            {
+               "Name": "custbody_mhc_govt_rates_fill",
+               "Value": "F"
+            }
+         ]
+      },
+      "WorkstationID": "",
+      "MachineName": "",
+      "IsPulling": "False",
+      "PreProcessors": {
+         "PreProcessor": [
+            "\\\\amznfsxiyaouacf.pacejet.cc\\share\\SharedApp\\WebServices\\PacejetPreprocessWS\\PluginLibraries\\MHCMedicalProducts\\00~CreateBillingAccountAddressRecords~{2-5-3-0}.dll",
+            "\\\\amznfsxiyaouacf.pacejet.cc\\share\\SharedApp\\WebServices\\PacejetPreprocessWS\\PluginLibraries\\MHCMedicalProducts\\01~DeleteDO~{1-1-1-1}.dll",
+            "\\\\amznfsxiyaouacf.pacejet.cc\\share\\SharedApp\\WebServices\\PacejetPreprocessWS\\PluginLibraries\\MHCMedicalProducts\\02~TransCopyNode~{1-1-6022-17944}.dll",
+            "\\\\amznfsxiyaouacf.pacejet.cc\\share\\SharedApp\\WebServices\\PacejetPreprocessWS\\PluginLibraries\\MHCMedicalProducts\\03~TurnOffCarrierEmailNotifications~{1-1-0-0}.dll",
+            "\\\\amznfsxiyaouacf.pacejet.cc\\share\\SharedApp\\WebServices\\PacejetPreprocessWS\\PluginLibraries\\MHCMedicalProducts\\04~UPSReference2RemoveSpecialCharacters~{1-3-0-0}.dll"
+         ]
+      }
+   }
+}
